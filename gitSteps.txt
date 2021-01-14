@@ -1,4 +1,5 @@
 git clone "url"
+cd to the directory we want to be in
 git add .
 git commit -m "changes"
 git push origin main
